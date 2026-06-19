@@ -1,10 +1,8 @@
 {
-  "_base": "https://ericjaipal.github.io/samples/",
   "abyss": [
-    "abyss/abyss-1.m4a",
-    "abyss/abyss-2.m4a",
-    "abyss/abyss-3.m4a",
-    "abyss/abyss-4.m4a",
-    "abyss/abyss1.wav"
+    "https://ericjaipal.github.io/samples/abyss/abyss1.wav",
+    "https://ericjaipal.github.io/samples/abyss/abyss2.wav",
+    "https://ericjaipal.github.io/samples/abyss/abyss3.wav",
+    "https://ericjaipal.github.io/samples/abyss/abyss4.wav"
   ]
 }
