@@ -1,8 +1,10 @@
 {
-  "abyss": [
+  "_base": "https://raw.githubusercontent.com/ericjaipal/samples/main/",
+  "abyss": [ 
     "abyss 1.m4a",
     "abyss 2.m4a",
     "abyss 3.m4a",
     "abyss 3.m4a"
   ]
 }
+
